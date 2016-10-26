@@ -1,6 +1,6 @@
 # TensorZoom-TF
 
-This is a Tensorflow project of super-resolution that implemented the paper [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802). The TensorZoom network can scale up an image by 4 times its width and height with significantly better quality comparing with bilinear scaling. The training process is based on adversarial training that train a discriminative network and a generative network alternatively in order to achieve a better visual result.
+This is a Tensorflow project of super-resolution that implemented the paper [Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802). The TensorZoom network can scale up an image by 4 times its width and height (16 times the area) with significantly better quality comparing with bilinear scaling. The training process is based on adversarial training that train a discriminative network and a generative network alternatively in order to achieve a better visual result.
 
 
 
