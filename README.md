@@ -64,4 +64,6 @@ This repository provide several pre-trained NPY results that can be used to expo
 - [tz6-s-stitch-gen.npy](https://github.com/machrisaa/tensorzoom/blob/master/results/tz6-s-stitch/tz6-s-stitch-gen.npy): A training that used the stitch method, no deblur. Bad for multi mega pixels photo taken by mobile device.
 - [tz6-s-stitch-sblur-gen.npy](https://github.com/machrisaa/tensorzoom/blob/master/results/tz6-s-stitch-sblur/tz6-s-stitch-sblur-gen.npy): Added deblur training method. Better quality for large image takne from mobile camera.
 - [tz6-s-stitch-sblur-lowtv-gen.npy](https://github.com/machrisaa/tensorzoom/blob/master/results/tz6-s-stitch-sblur-lowtv/tz6-s-stitch-sblur-lowtv-gen.npy): Another version with deblur version. Try to remove total variant cost to train the network.
+
 > Due to the file size limit, the NPY files for the Discriminative Network is not included.
+
